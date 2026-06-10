@@ -1,0 +1,43 @@
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+ENV/
+cache/
+.cache/
+logs/
+*.log
+
+# Local/editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large local packages and raw datasets
+ML_Project.zip
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+raw_data/
+raw_dataset/
+datasets/
+large_datasets/
+
+# Generated runtime files
+*.tmp
+*.temp
+*.bak
+
+# Notebook checkpoints and experiment caches
+wandb/
+mlruns/
+runs/

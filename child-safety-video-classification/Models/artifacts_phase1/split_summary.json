@@ -1,0 +1,8 @@
+{
+  "train_samples": 347,
+  "test_samples": 150,
+  "safe_train": 175,
+  "unsafe_train": 172,
+  "safe_test": 75,
+  "unsafe_test": 75
+}

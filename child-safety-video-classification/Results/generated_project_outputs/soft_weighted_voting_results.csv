@@ -1,0 +1,3 @@
+ensemble_method,models_used,accuracy,precision,recall,f1_score
+soft_voting,"phase3_visual_random_forest, phase4_visual_svm, phase8_visual_xgboost, phase9_visual_mlp_classifier",0.84,0.84,0.84,0.84
+weighted_voting,"phase3_visual_random_forest, phase4_visual_svm, phase8_visual_xgboost, phase9_visual_mlp_classifier",0.84,0.84,0.84,0.84

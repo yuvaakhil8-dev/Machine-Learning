@@ -1,0 +1,513 @@
+feature_number,old_column_name,new_column_name,feature_group,meaning,note
+1,edge_texture_feature_001,feature_001_edge_pattern,Edge / Texture,edge pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+2,edge_texture_feature_002,feature_002_vertical_edge,Edge / Texture,vertical edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+3,edge_texture_feature_003,feature_003_horizontal_edge,Edge / Texture,horizontal edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+4,edge_texture_feature_004,feature_004_diagonal_edge,Edge / Texture,diagonal edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+5,edge_texture_feature_005,feature_005_corner_pattern,Edge / Texture,corner pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+6,edge_texture_feature_006,feature_006_texture_pattern,Edge / Texture,texture pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+7,edge_texture_feature_007,feature_007_surface_roughness,Edge / Texture,surface roughness,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+8,edge_texture_feature_008,feature_008_smooth_surface,Edge / Texture,smooth surface,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+9,edge_texture_feature_009,feature_009_sharpness_cue,Edge / Texture,sharpness cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+10,edge_texture_feature_010,feature_010_blur_pattern,Edge / Texture,blur pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+11,edge_texture_feature_011,feature_011_contrast_cue,Edge / Texture,contrast cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+12,edge_texture_feature_012,feature_012_dark_light_boundary,Edge / Texture,dark-light boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+13,edge_texture_feature_013,feature_013_object_boundary,Edge / Texture,object boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+14,edge_texture_feature_014,feature_014_body_outline,Edge / Texture,body outline,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+15,edge_texture_feature_015,feature_015_face_boundary,Edge / Texture,face boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+16,edge_texture_feature_016,feature_016_hand_boundary,Edge / Texture,hand boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+17,edge_texture_feature_017,feature_017_background_texture,Edge / Texture,background texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+18,edge_texture_feature_018,feature_018_foreground_texture,Edge / Texture,foreground texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+19,edge_texture_feature_019,feature_019_repeated_line_pattern,Edge / Texture,repeated line pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+20,edge_texture_feature_020,feature_020_curved_edge,Edge / Texture,curved edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+21,edge_texture_feature_021,feature_021_straight_edge,Edge / Texture,straight edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+22,edge_texture_feature_022,feature_022_frame_detail,Edge / Texture,frame detail,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+23,edge_texture_feature_023,feature_023_local_pattern,Edge / Texture,local pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+24,edge_texture_feature_024,feature_024_high_texture_region,Edge / Texture,high texture region,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+25,edge_texture_feature_025,feature_025_low_texture_region,Edge / Texture,low texture region,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+26,edge_texture_feature_026,feature_026_shadow_boundary,Edge / Texture,shadow boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+27,edge_texture_feature_027,feature_027_lighting_edge,Edge / Texture,lighting edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+28,edge_texture_feature_028,feature_028_motion_blur_cue,Edge / Texture,motion blur cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+29,edge_texture_feature_029,feature_029_camera_focus_cue,Edge / Texture,camera focus cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+30,edge_texture_feature_030,feature_030_object_contour,Edge / Texture,object contour,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+31,edge_texture_feature_031,feature_031_human_contour,Edge / Texture,human contour,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+32,edge_texture_feature_032,feature_032_scene_contour,Edge / Texture,scene contour,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+33,edge_texture_feature_033,feature_033_rough_background,Edge / Texture,rough background,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+34,edge_texture_feature_034,feature_034_clean_background,Edge / Texture,clean background,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+35,edge_texture_feature_035,feature_035_fine_detail,Edge / Texture,fine detail,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+36,edge_texture_feature_036,feature_036_coarse_detail,Edge / Texture,coarse detail,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+37,edge_texture_feature_037,feature_037_small_shape_edge,Edge / Texture,small shape edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+38,edge_texture_feature_038,feature_038_large_shape_edge,Edge / Texture,large shape edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+39,edge_texture_feature_039,feature_039_crowd_texture,Edge / Texture,crowd texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+40,edge_texture_feature_040,feature_040_clothing_texture,Edge / Texture,clothing texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+41,edge_texture_feature_041,feature_041_floor_texture,Edge / Texture,floor texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+42,edge_texture_feature_042,feature_042_wall_texture,Edge / Texture,wall texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+43,edge_texture_feature_043,feature_043_skin_tone_boundary,Edge / Texture,skin-tone boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+44,edge_texture_feature_044,feature_044_hair_boundary,Edge / Texture,hair boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+45,edge_texture_feature_045,feature_045_object_surface,Edge / Texture,object surface,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+46,edge_texture_feature_046,feature_046_scene_surface,Edge / Texture,scene surface,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+47,edge_texture_feature_047,feature_047_visual_clutter,Edge / Texture,visual clutter,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+48,edge_texture_feature_048,feature_048_empty_region,Edge / Texture,empty region,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+49,edge_texture_feature_049,feature_049_high_frequency_pattern,Edge / Texture,high-frequency pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+50,edge_texture_feature_050,feature_050_low_frequency_pattern,Edge / Texture,low-frequency pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+51,edge_texture_feature_051,feature_051_thin_line_pattern,Edge / Texture,thin line pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+52,edge_texture_feature_052,feature_052_thick_line_pattern,Edge / Texture,thick line pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+53,edge_texture_feature_053,feature_053_edge_density,Edge / Texture,edge density,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+54,edge_texture_feature_054,feature_054_texture_density,Edge / Texture,texture density,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+55,edge_texture_feature_055,feature_055_boundary_strength,Edge / Texture,boundary strength,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+56,edge_texture_feature_056,feature_056_weak_boundary,Edge / Texture,weak boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+57,edge_texture_feature_057,feature_057_strong_boundary,Edge / Texture,strong boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+58,edge_texture_feature_058,feature_058_shape_boundary,Edge / Texture,shape boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+59,edge_texture_feature_059,feature_059_background_edge,Edge / Texture,background edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+60,edge_texture_feature_060,feature_060_foreground_edge,Edge / Texture,foreground edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+61,edge_texture_feature_061,feature_061_face_texture,Edge / Texture,face texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+62,edge_texture_feature_062,feature_062_body_texture,Edge / Texture,body texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+63,edge_texture_feature_063,feature_063_object_texture,Edge / Texture,object texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+64,edge_texture_feature_064,feature_064_scene_texture,Edge / Texture,scene texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+65,edge_texture_feature_065,feature_065_repeated_texture,Edge / Texture,repeated texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+66,edge_texture_feature_066,feature_066_irregular_texture,Edge / Texture,irregular texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+67,edge_texture_feature_067,feature_067_uniform_texture,Edge / Texture,uniform texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+68,edge_texture_feature_068,feature_068_rough_clothing_pattern,Edge / Texture,rough clothing pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+69,edge_texture_feature_069,feature_069_smooth_clothing_pattern,Edge / Texture,smooth clothing pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+70,edge_texture_feature_070,feature_070_lighting_contrast,Edge / Texture,lighting contrast,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+71,edge_texture_feature_071,feature_071_dark_region_cue,Edge / Texture,dark region cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+72,edge_texture_feature_072,feature_072_bright_region_cue,Edge / Texture,bright region cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+73,edge_texture_feature_073,feature_073_mid_tone_region_cue,Edge / Texture,mid-tone region cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+74,edge_texture_feature_074,feature_074_color_transition_edge,Edge / Texture,color transition edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+75,edge_texture_feature_075,feature_075_gray_level_texture,Edge / Texture,gray-level texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+76,edge_texture_feature_076,feature_076_frame_noise_texture,Edge / Texture,frame noise texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+77,edge_texture_feature_077,feature_077_low_quality_texture,Edge / Texture,low-quality texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+78,edge_texture_feature_078,feature_078_high_quality_texture,Edge / Texture,high-quality texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+79,edge_texture_feature_079,feature_079_sharp_object_border,Edge / Texture,sharp object border,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+80,edge_texture_feature_080,feature_080_soft_object_border,Edge / Texture,soft object border,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+81,edge_texture_feature_081,feature_081_hard_shadow_edge,Edge / Texture,hard shadow edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+82,edge_texture_feature_082,feature_082_soft_shadow_edge,Edge / Texture,soft shadow edge,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+83,edge_texture_feature_083,feature_083_surface_pattern_cue,Edge / Texture,surface pattern cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+84,edge_texture_feature_084,feature_084_fine_grain_texture,Edge / Texture,fine grain texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+85,edge_texture_feature_085,feature_085_coarse_grain_texture,Edge / Texture,coarse grain texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+86,edge_texture_feature_086,feature_086_wall_edge_pattern,Edge / Texture,wall-edge pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+87,edge_texture_feature_087,feature_087_floor_edge_pattern,Edge / Texture,floor-edge pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+88,edge_texture_feature_088,feature_088_room_line_structure,Edge / Texture,room-line structure,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+89,edge_texture_feature_089,feature_089_outdoor_line_structure,Edge / Texture,outdoor-line structure,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+90,edge_texture_feature_090,feature_090_human_object_boundary,Edge / Texture,human-object boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+91,edge_texture_feature_091,feature_091_person_background_boundary,Edge / Texture,person-background boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+92,edge_texture_feature_092,feature_092_object_background_boundary,Edge / Texture,object-background boundary,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+93,edge_texture_feature_093,feature_093_close_up_texture,Edge / Texture,close-up texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+94,edge_texture_feature_094,feature_094_wide_scene_texture,Edge / Texture,wide-scene texture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+95,edge_texture_feature_095,feature_095_camera_blur_region,Edge / Texture,camera blur region,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+96,edge_texture_feature_096,feature_096_clear_focus_region,Edge / Texture,clear focus region,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+97,edge_texture_feature_097,feature_097_visual_detail_cue,Edge / Texture,visual detail cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+98,edge_texture_feature_098,feature_098_texture_change_cue,Edge / Texture,texture change cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+99,edge_texture_feature_099,feature_099_edge_change_cue,Edge / Texture,edge change cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+100,edge_texture_feature_100,feature_100_shape_detail_cue,Edge / Texture,shape detail cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+101,edge_texture_feature_101,feature_101_pattern_complexity,Edge / Texture,pattern complexity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+102,edge_texture_feature_102,feature_102_pattern_simplicity,Edge / Texture,pattern simplicity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+103,edge_texture_feature_103,feature_103_repeated_background_line,Edge / Texture,repeated background line,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+104,edge_texture_feature_104,feature_104_repeated_foreground_line,Edge / Texture,repeated foreground line,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+105,edge_texture_feature_105,feature_105_body_edge_response,Edge / Texture,body-edge response,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+106,edge_texture_feature_106,feature_106_arm_edge_response,Edge / Texture,arm-edge response,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+107,edge_texture_feature_107,feature_107_leg_edge_response,Edge / Texture,leg-edge response,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+108,edge_texture_feature_108,feature_108_head_edge_response,Edge / Texture,head-edge response,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+109,edge_texture_feature_109,feature_109_object_edge_response,Edge / Texture,object-edge response,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+110,edge_texture_feature_110,feature_110_scene_edge_response,Edge / Texture,scene-edge response,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+111,edge_texture_feature_111,feature_111_crowd_edge_response,Edge / Texture,crowd-edge response,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+112,edge_texture_feature_112,feature_112_motion_edge_response,Edge / Texture,motion-edge response,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+113,edge_texture_feature_113,feature_113_static_edge_response,Edge / Texture,static-edge response,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+114,edge_texture_feature_114,feature_114_sharp_transition_cue,Edge / Texture,sharp transition cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+115,edge_texture_feature_115,feature_115_soft_transition_cue,Edge / Texture,soft transition cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+116,edge_texture_feature_116,feature_116_frame_quality_cue,Edge / Texture,frame quality cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+117,edge_texture_feature_117,feature_117_visual_boundary_cue,Edge / Texture,visual boundary cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+118,edge_texture_feature_118,feature_118_object_separation_cue,Edge / Texture,object separation cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+119,edge_texture_feature_119,feature_119_background_separation_cue,Edge / Texture,background separation cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+120,edge_texture_feature_120,feature_120_texture_contrast_cue,Edge / Texture,texture contrast cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+121,edge_texture_feature_121,feature_121_micro_pattern_cue,Edge / Texture,micro-pattern cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+122,edge_texture_feature_122,feature_122_macro_pattern_cue,Edge / Texture,macro-pattern cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+123,edge_texture_feature_123,feature_123_surface_detail_cue,Edge / Texture,surface-detail cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+124,edge_texture_feature_124,feature_124_line_orientation_cue,Edge / Texture,line-orientation cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+125,edge_texture_feature_125,feature_125_corner_density_cue,Edge / Texture,corner-density cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+126,edge_texture_feature_126,feature_126_contour_density_cue,Edge / Texture,contour-density cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+127,edge_texture_feature_127,feature_127_visual_structure_cue,Edge / Texture,visual structure cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+128,edge_texture_feature_128,feature_128_nan,Edge / Texture,,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+129,object_body_feature_001,feature_129_person_pattern,Object / Body,person pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+130,object_body_feature_002,feature_130_face_pattern,Object / Body,face pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+131,object_body_feature_003,feature_131_head_cue,Object / Body,head cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+132,object_body_feature_004,feature_132_hand_cue,Object / Body,hand cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+133,object_body_feature_005,feature_133_arm_cue,Object / Body,arm cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+134,object_body_feature_006,feature_134_leg_cue,Object / Body,leg cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+135,object_body_feature_007,feature_135_body_posture,Object / Body,body posture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+136,object_body_feature_008,feature_136_standing_posture,Object / Body,standing posture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+137,object_body_feature_009,feature_137_sitting_posture,Object / Body,sitting posture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+138,object_body_feature_010,feature_138_bending_posture,Object / Body,bending posture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+139,object_body_feature_011,feature_139_falling_like_posture,Object / Body,falling-like posture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+140,object_body_feature_012,feature_140_walking_pattern,Object / Body,walking pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+141,object_body_feature_013,feature_141_running_pattern,Object / Body,running pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+142,object_body_feature_014,feature_142_group_presence,Object / Body,group presence,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+143,object_body_feature_015,feature_143_multiple_people,Object / Body,multiple people,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+144,object_body_feature_016,feature_144_single_person,Object / Body,single person,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+145,object_body_feature_017,feature_145_human_interaction,Object / Body,human interaction,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+146,object_body_feature_018,feature_146_close_contact_cue,Object / Body,close-contact cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+147,object_body_feature_019,feature_147_object_shape,Object / Body,object shape,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+148,object_body_feature_020,feature_148_handheld_object_cue,Object / Body,handheld object cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+149,object_body_feature_021,feature_149_large_object_cue,Object / Body,large object cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+150,object_body_feature_022,feature_150_small_object_cue,Object / Body,small object cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+151,object_body_feature_023,feature_151_object_near_body,Object / Body,object near body,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+152,object_body_feature_024,feature_152_object_in_hand,Object / Body,object in hand,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+153,object_body_feature_025,feature_153_face_orientation,Object / Body,face orientation,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+154,object_body_feature_026,feature_154_body_orientation,Object / Body,body orientation,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+155,object_body_feature_027,feature_155_arm_movement,Object / Body,arm movement,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+156,object_body_feature_028,feature_156_hand_movement,Object / Body,hand movement,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+157,object_body_feature_029,feature_157_leg_movement,Object / Body,leg movement,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+158,object_body_feature_030,feature_158_upper_body_cue,Object / Body,upper body cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+159,object_body_feature_031,feature_159_lower_body_cue,Object / Body,lower body cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+160,object_body_feature_032,feature_160_shoulder_pattern,Object / Body,shoulder pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+161,object_body_feature_033,feature_161_torso_pattern,Object / Body,torso pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+162,object_body_feature_034,feature_162_crowd_body_pattern,Object / Body,crowd body pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+163,object_body_feature_035,feature_163_occluded_body,Object / Body,occluded body,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+164,object_body_feature_036,feature_164_overlapping_people,Object / Body,overlapping people,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+165,object_body_feature_037,feature_165_person_background_relation,Object / Body,person-background relation,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+166,object_body_feature_038,feature_166_object_background_relation,Object / Body,object-background relation,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+167,object_body_feature_039,feature_167_body_object_relation,Object / Body,body-object relation,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+168,object_body_feature_040,feature_168_gesture_cue,Object / Body,gesture cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+169,object_body_feature_041,feature_169_pointing_like_cue,Object / Body,pointing-like cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+170,object_body_feature_042,feature_170_raised_hand_cue,Object / Body,raised-hand cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+171,object_body_feature_043,feature_171_pushing_like_cue,Object / Body,pushing-like cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+172,object_body_feature_044,feature_172_pulling_like_cue,Object / Body,pulling-like cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+173,object_body_feature_045,feature_173_holding_like_cue,Object / Body,holding-like cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+174,object_body_feature_046,feature_174_protective_posture,Object / Body,protective posture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+175,object_body_feature_047,feature_175_aggressive_posture,Object / Body,aggressive posture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+176,object_body_feature_048,feature_176_normal_posture,Object / Body,normal posture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+177,object_body_feature_049,feature_177_abnormal_posture,Object / Body,abnormal posture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+178,object_body_feature_050,feature_178_body_movement_context,Object / Body,body movement context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+179,object_body_feature_051,feature_179_face_region_cue,Object / Body,face-region cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+180,object_body_feature_052,feature_180_eye_region_cue,Object / Body,eye-region cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+181,object_body_feature_053,feature_181_mouth_region_cue,Object / Body,mouth-region cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+182,object_body_feature_054,feature_182_neck_region_cue,Object / Body,neck-region cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+183,object_body_feature_055,feature_183_elbow_region_cue,Object / Body,elbow-region cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+184,object_body_feature_056,feature_184_knee_region_cue,Object / Body,knee-region cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+185,object_body_feature_057,feature_185_foot_region_cue,Object / Body,foot-region cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+186,object_body_feature_058,feature_186_human_silhouette,Object / Body,human silhouette,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+187,object_body_feature_059,feature_187_side_body_view,Object / Body,side-body view,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+188,object_body_feature_060,feature_188_front_body_view,Object / Body,front-body view,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+189,object_body_feature_061,feature_189_back_body_view,Object / Body,back-body view,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+190,object_body_feature_062,feature_190_person_cluster,Object / Body,person cluster,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+191,object_body_feature_063,feature_191_body_distance_cue,Object / Body,body distance cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+192,object_body_feature_064,feature_192_body_angle_cue,Object / Body,body angle cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+193,object_body_feature_065,feature_193_person_proximity_cue,Object / Body,person proximity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+194,object_body_feature_066,feature_194_interaction_distance,Object / Body,interaction distance,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+195,object_body_feature_067,feature_195_object_proximity_cue,Object / Body,object proximity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+196,object_body_feature_068,feature_196_object_size_cue,Object / Body,object size cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+197,object_body_feature_069,feature_197_object_orientation_cue,Object / Body,object orientation cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+198,object_body_feature_070,feature_198_object_position_cue,Object / Body,object position cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+199,object_body_feature_071,feature_199_person_object_overlap,Object / Body,person-object overlap,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+200,object_body_feature_072,feature_200_body_part_overlap,Object / Body,body-part overlap,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+201,object_body_feature_073,feature_201_fast_body_movement,Object / Body,fast body movement,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+202,object_body_feature_074,feature_202_slow_body_movement,Object / Body,slow body movement,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+203,object_body_feature_075,feature_203_static_body_cue,Object / Body,static body cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+204,object_body_feature_076,feature_204_dynamic_body_cue,Object / Body,dynamic body cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+205,object_body_feature_077,feature_205_gesture_intensity,Object / Body,gesture intensity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+206,object_body_feature_078,feature_206_arm_extension_cue,Object / Body,arm extension cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+207,object_body_feature_079,feature_207_hand_extension_cue,Object / Body,hand extension cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+208,object_body_feature_080,feature_208_leg_extension_cue,Object / Body,leg extension cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+209,object_body_feature_081,feature_209_body_balance_cue,Object / Body,body balance cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+210,object_body_feature_082,feature_210_body_imbalance_cue,Object / Body,body imbalance cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+211,object_body_feature_083,feature_211_fall_risk_posture,Object / Body,fall-risk posture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+212,object_body_feature_084,feature_212_crouching_posture,Object / Body,crouching posture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+213,object_body_feature_085,feature_213_leaning_posture,Object / Body,leaning posture,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+214,object_body_feature_086,feature_214_jumping_like_cue,Object / Body,jumping-like cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+215,object_body_feature_087,feature_215_contact_posture_cue,Object / Body,contact posture cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+216,object_body_feature_088,feature_216_non_contact_posture_cue,Object / Body,non-contact posture cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+217,object_body_feature_089,feature_217_group_posture_cue,Object / Body,group posture cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+218,object_body_feature_090,feature_218_single_posture_cue,Object / Body,single posture cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+219,object_body_feature_091,feature_219_crowd_formation_cue,Object / Body,crowd formation cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+220,object_body_feature_092,feature_220_person_count_cue,Object / Body,person count cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+221,object_body_feature_093,feature_221_object_count_cue,Object / Body,object count cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+222,object_body_feature_094,feature_222_human_shape_density,Object / Body,human shape density,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+223,object_body_feature_095,feature_223_object_shape_density,Object / Body,object shape density,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+224,object_body_feature_096,feature_224_body_outline_strength,Object / Body,body outline strength,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+225,object_body_feature_097,feature_225_face_visibility_cue,Object / Body,face visibility cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+226,object_body_feature_098,feature_226_hand_visibility_cue,Object / Body,hand visibility cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+227,object_body_feature_099,feature_227_leg_visibility_cue,Object / Body,leg visibility cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+228,object_body_feature_100,feature_228_upper_body_motion,Object / Body,upper-body motion,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+229,object_body_feature_101,feature_229_lower_body_motion,Object / Body,lower-body motion,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+230,object_body_feature_102,feature_230_body_direction_cue,Object / Body,body direction cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+231,object_body_feature_103,feature_231_interaction_pattern,Object / Body,interaction pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+232,object_body_feature_104,feature_232_body_scene_relation,Object / Body,body-scene relation,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+233,object_body_feature_105,feature_233_person_scene_context,Object / Body,person-scene context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+234,object_body_feature_106,feature_234_held_object_context,Object / Body,held-object context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+235,object_body_feature_107,feature_235_near_object_context,Object / Body,near-object context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+236,object_body_feature_108,feature_236_human_activity_cue,Object / Body,human activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+237,object_body_feature_109,feature_237_object_activity_cue,Object / Body,object activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+238,object_body_feature_110,feature_238_gesture_pattern_cue,Object / Body,gesture pattern cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+239,object_body_feature_111,feature_239_posture_pattern_cue,Object / Body,posture pattern cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+240,object_body_feature_112,feature_240_body_risk_cue,Object / Body,body-risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+241,object_body_feature_113,feature_241_body_safe_cue,Object / Body,body-safe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+242,object_body_feature_114,feature_242_interaction_risk_cue,Object / Body,interaction-risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+243,object_body_feature_115,feature_243_interaction_safe_cue,Object / Body,interaction-safe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+244,object_body_feature_116,feature_244_human_context_cue,Object / Body,human-context cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+245,object_body_feature_117,feature_245_body_context_cue,Object / Body,body-context cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+246,object_body_feature_118,feature_246_object_context_cue,Object / Body,object-context cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+247,object_body_feature_119,feature_247_pose_context_cue,Object / Body,pose-context cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+248,object_body_feature_120,feature_248_group_context_cue,Object / Body,group-context cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+249,object_body_feature_121,feature_249_person_location_cue,Object / Body,person-location cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+250,object_body_feature_122,feature_250_object_location_cue,Object / Body,object-location cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+251,object_body_feature_123,feature_251_body_motion_cue,Object / Body,body-motion cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+252,object_body_feature_124,feature_252_human_motion_cue,Object / Body,human-motion cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+253,object_body_feature_125,feature_253_object_motion_cue,Object / Body,object-motion cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+254,object_body_feature_126,feature_254_nan,Object / Body,,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+255,object_body_feature_127,feature_255_nan,Object / Body,,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+256,object_body_feature_128,feature_256_nan,Object / Body,,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+257,scene_activity_feature_001,feature_257_indoor_scene,Scene / Activity,indoor scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+258,scene_activity_feature_002,feature_258_outdoor_scene,Scene / Activity,outdoor scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+259,scene_activity_feature_003,feature_259_classroom_like_scene,Scene / Activity,classroom-like scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+260,scene_activity_feature_004,feature_260_room_background,Scene / Activity,room background,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+261,scene_activity_feature_005,feature_261_open_area,Scene / Activity,open area,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+262,scene_activity_feature_006,feature_262_street_like_scene,Scene / Activity,street-like scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+263,scene_activity_feature_007,feature_263_playground_like_scene,Scene / Activity,playground-like scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+264,scene_activity_feature_008,feature_264_crowd_scene,Scene / Activity,crowd scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+265,scene_activity_feature_009,feature_265_empty_scene,Scene / Activity,empty scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+266,scene_activity_feature_010,feature_266_calm_activity,Scene / Activity,calm activity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+267,scene_activity_feature_011,feature_267_fast_activity,Scene / Activity,fast activity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+268,scene_activity_feature_012,feature_268_slow_activity,Scene / Activity,slow activity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+269,scene_activity_feature_013,feature_269_group_activity,Scene / Activity,group activity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+270,scene_activity_feature_014,feature_270_single_person_activity,Scene / Activity,single-person activity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+271,scene_activity_feature_015,feature_271_social_interaction,Scene / Activity,social interaction,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+272,scene_activity_feature_016,feature_272_physical_interaction,Scene / Activity,physical interaction,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+273,scene_activity_feature_017,feature_273_abnormal_activity,Scene / Activity,abnormal activity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+274,scene_activity_feature_018,feature_274_normal_activity,Scene / Activity,normal activity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+275,scene_activity_feature_019,feature_275_action_context,Scene / Activity,action context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+276,scene_activity_feature_020,feature_276_movement_context,Scene / Activity,movement context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+277,scene_activity_feature_021,feature_277_camera_movement,Scene / Activity,camera movement,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+278,scene_activity_feature_022,feature_278_camera_shake,Scene / Activity,camera shake,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+279,scene_activity_feature_023,feature_279_scene_transition,Scene / Activity,scene transition,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+280,scene_activity_feature_024,feature_280_background_change,Scene / Activity,background change,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+281,scene_activity_feature_025,feature_281_foreground_activity,Scene / Activity,foreground activity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+282,scene_activity_feature_026,feature_282_crowded_background,Scene / Activity,crowded background,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+283,scene_activity_feature_027,feature_283_clean_background,Scene / Activity,clean background,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+284,scene_activity_feature_028,feature_284_complex_scene,Scene / Activity,complex scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+285,scene_activity_feature_029,feature_285_simple_scene,Scene / Activity,simple scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+286,scene_activity_feature_030,feature_286_high_activity_region,Scene / Activity,high activity region,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+287,scene_activity_feature_031,feature_287_low_activity_region,Scene / Activity,low activity region,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+288,scene_activity_feature_032,feature_288_interaction_zone,Scene / Activity,interaction zone,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+289,scene_activity_feature_033,feature_289_object_rich_scene,Scene / Activity,object-rich scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+290,scene_activity_feature_034,feature_290_person_rich_scene,Scene / Activity,person-rich scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+291,scene_activity_feature_035,feature_291_high_motion_scene,Scene / Activity,high motion scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+292,scene_activity_feature_036,feature_292_low_motion_scene,Scene / Activity,low motion scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+293,scene_activity_feature_037,feature_293_close_up_scene,Scene / Activity,close-up scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+294,scene_activity_feature_038,feature_294_wide_shot_scene,Scene / Activity,wide-shot scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+295,scene_activity_feature_039,feature_295_normal_play_context,Scene / Activity,normal play context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+296,scene_activity_feature_040,feature_296_conflict_like_context,Scene / Activity,conflict-like context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+297,scene_activity_feature_041,feature_297_gathering_context,Scene / Activity,gathering context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+298,scene_activity_feature_042,feature_298_isolated_person_context,Scene / Activity,isolated person context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+299,scene_activity_feature_043,feature_299_public_place_context,Scene / Activity,public place context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+300,scene_activity_feature_044,feature_300_private_place_context,Scene / Activity,private place context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+301,scene_activity_feature_045,feature_301_bright_scene,Scene / Activity,bright scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+302,scene_activity_feature_046,feature_302_dark_scene,Scene / Activity,dark scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+303,scene_activity_feature_047,feature_303_noisy_visual_scene,Scene / Activity,noisy visual scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+304,scene_activity_feature_048,feature_304_stable_visual_scene,Scene / Activity,stable visual scene,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+305,scene_activity_feature_049,feature_305_temporal_activity_pattern,Scene / Activity,temporal activity pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+306,scene_activity_feature_050,feature_306_scene_safety_context,Scene / Activity,scene safety context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+307,scene_activity_feature_051,feature_307_indoor_activity_cue,Scene / Activity,indoor activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+308,scene_activity_feature_052,feature_308_outdoor_activity_cue,Scene / Activity,outdoor activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+309,scene_activity_feature_053,feature_309_classroom_activity,Scene / Activity,classroom activity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+310,scene_activity_feature_054,feature_310_home_like_activity,Scene / Activity,home-like activity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+311,scene_activity_feature_055,feature_311_road_side_context,Scene / Activity,road-side context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+312,scene_activity_feature_056,feature_312_field_like_context,Scene / Activity,field-like context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+313,scene_activity_feature_057,feature_313_hallway_like_context,Scene / Activity,hallway-like context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+314,scene_activity_feature_058,feature_314_room_layout_cue,Scene / Activity,room-layout cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+315,scene_activity_feature_059,feature_315_open_layout_cue,Scene / Activity,open-layout cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+316,scene_activity_feature_060,feature_316_background_motion,Scene / Activity,background motion,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+317,scene_activity_feature_061,feature_317_foreground_motion,Scene / Activity,foreground motion,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+318,scene_activity_feature_062,feature_318_scene_depth_cue,Scene / Activity,scene depth cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+319,scene_activity_feature_063,feature_319_scene_distance_cue,Scene / Activity,scene distance cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+320,scene_activity_feature_064,feature_320_camera_angle_cue,Scene / Activity,camera angle cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+321,scene_activity_feature_065,feature_321_top_view_cue,Scene / Activity,top-view cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+322,scene_activity_feature_066,feature_322_side_view_cue,Scene / Activity,side-view cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+323,scene_activity_feature_067,feature_323_front_view_cue,Scene / Activity,front-view cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+324,scene_activity_feature_068,feature_324_scene_clutter_cue,Scene / Activity,scene clutter cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+325,scene_activity_feature_069,feature_325_scene_clarity_cue,Scene / Activity,scene clarity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+326,scene_activity_feature_070,feature_326_environment_cue,Scene / Activity,environment cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+327,scene_activity_feature_071,feature_327_activity_density,Scene / Activity,activity density,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+328,scene_activity_feature_072,feature_328_scene_density,Scene / Activity,scene density,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+329,scene_activity_feature_073,feature_329_crowd_density,Scene / Activity,crowd density,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+330,scene_activity_feature_074,feature_330_person_distribution,Scene / Activity,person distribution,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+331,scene_activity_feature_075,feature_331_object_distribution,Scene / Activity,object distribution,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+332,scene_activity_feature_076,feature_332_movement_distribution,Scene / Activity,movement distribution,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+333,scene_activity_feature_077,feature_333_scene_stability,Scene / Activity,scene stability,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+334,scene_activity_feature_078,feature_334_scene_instability,Scene / Activity,scene instability,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+335,scene_activity_feature_079,feature_335_transition_frequency,Scene / Activity,transition frequency,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+336,scene_activity_feature_080,feature_336_background_complexity,Scene / Activity,background complexity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+337,scene_activity_feature_081,feature_337_foreground_complexity,Scene / Activity,foreground complexity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+338,scene_activity_feature_082,feature_338_visual_noise_context,Scene / Activity,visual noise context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+339,scene_activity_feature_083,feature_339_clear_scene_context,Scene / Activity,clear scene context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+340,scene_activity_feature_084,feature_340_rapid_activity_context,Scene / Activity,rapid activity context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+341,scene_activity_feature_085,feature_341_slow_activity_context,Scene / Activity,slow activity context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+342,scene_activity_feature_086,feature_342_unsafe_scene_hint,Scene / Activity,unsafe scene hint,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+343,scene_activity_feature_087,feature_343_safe_scene_hint,Scene / Activity,safe scene hint,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+344,scene_activity_feature_088,feature_344_group_movement_cue,Scene / Activity,group movement cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+345,scene_activity_feature_089,feature_345_single_movement_cue,Scene / Activity,single movement cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+346,scene_activity_feature_090,feature_346_public_interaction_cue,Scene / Activity,public interaction cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+347,scene_activity_feature_091,feature_347_private_interaction_cue,Scene / Activity,private interaction cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+348,scene_activity_feature_092,feature_348_play_activity_cue,Scene / Activity,play activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+349,scene_activity_feature_093,feature_349_learning_activity_cue,Scene / Activity,learning activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+350,scene_activity_feature_094,feature_350_walking_activity_cue,Scene / Activity,walking activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+351,scene_activity_feature_095,feature_351_running_activity_cue,Scene / Activity,running activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+352,scene_activity_feature_096,feature_352_standing_activity_cue,Scene / Activity,standing activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+353,scene_activity_feature_097,feature_353_sitting_activity_cue,Scene / Activity,sitting activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+354,scene_activity_feature_098,feature_354_falling_context_cue,Scene / Activity,falling context cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+355,scene_activity_feature_099,feature_355_aggressive_context_cue,Scene / Activity,aggressive context cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+356,scene_activity_feature_100,feature_356_calm_context_cue,Scene / Activity,calm context cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+357,scene_activity_feature_101,feature_357_busy_environment_cue,Scene / Activity,busy environment cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+358,scene_activity_feature_102,feature_358_quiet_environment_cue,Scene / Activity,quiet environment cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+359,scene_activity_feature_103,feature_359_scene_object_layout,Scene / Activity,scene object layout,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+360,scene_activity_feature_104,feature_360_scene_person_layout,Scene / Activity,scene person layout,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+361,scene_activity_feature_105,feature_361_background_person_relation,Scene / Activity,background-person relation,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+362,scene_activity_feature_106,feature_362_foreground_person_relation,Scene / Activity,foreground-person relation,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+363,scene_activity_feature_107,feature_363_person_scene_distance,Scene / Activity,person-scene distance,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+364,scene_activity_feature_108,feature_364_object_scene_distance,Scene / Activity,object-scene distance,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+365,scene_activity_feature_109,feature_365_activity_region_pattern,Scene / Activity,activity-region pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+366,scene_activity_feature_110,feature_366_motion_region_pattern,Scene / Activity,motion-region pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+367,scene_activity_feature_111,feature_367_scene_region_pattern,Scene / Activity,scene-region pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+368,scene_activity_feature_112,feature_368_normal_environment_cue,Scene / Activity,normal environment cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+369,scene_activity_feature_113,feature_369_abnormal_environment_cue,Scene / Activity,abnormal environment cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+370,scene_activity_feature_114,feature_370_interaction_background,Scene / Activity,interaction background,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+371,scene_activity_feature_115,feature_371_action_background,Scene / Activity,action background,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+372,scene_activity_feature_116,feature_372_group_scene_context,Scene / Activity,group-scene context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+373,scene_activity_feature_117,feature_373_single_scene_context,Scene / Activity,single-scene context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+374,scene_activity_feature_118,feature_374_movement_scene_context,Scene / Activity,movement-scene context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+375,scene_activity_feature_119,feature_375_body_scene_context,Scene / Activity,body-scene context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+376,scene_activity_feature_120,feature_376_risk_scene_context,Scene / Activity,risk-scene context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+377,scene_activity_feature_121,feature_377_safe_scene_context,Scene / Activity,safe-scene context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+378,scene_activity_feature_122,feature_378_temporal_scene_cue,Scene / Activity,temporal scene cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+379,scene_activity_feature_123,feature_379_visual_scene_cue,Scene / Activity,visual scene cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+380,scene_activity_feature_124,feature_380_activity_scene_cue,Scene / Activity,activity scene cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+381,scene_activity_feature_125,feature_381_context_scene_cue,Scene / Activity,context scene cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+382,scene_activity_feature_126,feature_382_overall_scene_pattern,Scene / Activity,overall scene pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+383,scene_activity_feature_127,feature_383_nan,Scene / Activity,,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+384,scene_activity_feature_128,feature_384_nan,Scene / Activity,,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+385,safety_context_feature_001,feature_385_safe_context,Safety Context,safe context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+386,safety_context_feature_002,feature_386_unsafe_context,Safety Context,unsafe context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+387,safety_context_feature_003,feature_387_fight_like_cue,Safety Context,fight-like cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+388,safety_context_feature_004,feature_388_aggression_cue,Safety Context,aggression cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+389,safety_context_feature_005,feature_389_threat_like_cue,Safety Context,threat-like cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+390,safety_context_feature_006,feature_390_risk_pattern,Safety Context,risk pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+391,safety_context_feature_007,feature_391_normal_behavior,Safety Context,normal behavior,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+392,safety_context_feature_008,feature_392_abnormal_behavior,Safety Context,abnormal behavior,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+393,safety_context_feature_009,feature_393_calm_behavior,Safety Context,calm behavior,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+394,safety_context_feature_010,feature_394_intense_behavior,Safety Context,intense behavior,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+395,safety_context_feature_011,feature_395_close_contact_risk,Safety Context,close-contact risk,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+396,safety_context_feature_012,feature_396_crowd_risk_cue,Safety Context,crowd-risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+397,safety_context_feature_013,feature_397_object_risk_cue,Safety Context,object-risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+398,safety_context_feature_014,feature_398_pose_risk_cue,Safety Context,pose-risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+399,safety_context_feature_015,feature_399_motion_risk_cue,Safety Context,motion-risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+400,safety_context_feature_016,feature_400_unsafe_interaction_cue,Safety Context,unsafe interaction cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+401,safety_context_feature_017,feature_401_safe_interaction_cue,Safety Context,safe interaction cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+402,safety_context_feature_018,feature_402_conflict_like_cue,Safety Context,conflict-like cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+403,safety_context_feature_019,feature_403_non_conflict_cue,Safety Context,non-conflict cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+404,safety_context_feature_020,feature_404_high_risk_activity,Safety Context,high-risk activity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+405,safety_context_feature_021,feature_405_low_risk_activity,Safety Context,low-risk activity,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+406,safety_context_feature_022,feature_406_visual_danger_cue,Safety Context,visual danger cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+407,safety_context_feature_023,feature_407_visual_safety_cue,Safety Context,visual safety cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+408,safety_context_feature_024,feature_408_unsafe_body_pattern,Safety Context,unsafe body pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+409,safety_context_feature_025,feature_409_safe_body_pattern,Safety Context,safe body pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+410,safety_context_feature_026,feature_410_unsafe_scene_pattern,Safety Context,unsafe scene pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+411,safety_context_feature_027,feature_411_safe_scene_pattern,Safety Context,safe scene pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+412,safety_context_feature_028,feature_412_rapid_change_risk,Safety Context,rapid-change risk,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+413,safety_context_feature_029,feature_413_stable_scene_safety,Safety Context,stable-scene safety,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+414,safety_context_feature_030,feature_414_aggressive_movement_cue,Safety Context,aggressive movement cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+415,safety_context_feature_031,feature_415_normal_movement_cue,Safety Context,normal movement cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+416,safety_context_feature_032,feature_416_suspicious_object_context,Safety Context,suspicious object context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+417,safety_context_feature_033,feature_417_harmless_object_context,Safety Context,harmless object context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+418,safety_context_feature_034,feature_418_group_conflict_cue,Safety Context,group conflict cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+419,safety_context_feature_035,feature_419_group_normal_cue,Safety Context,group normal cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+420,safety_context_feature_036,feature_420_unsafe_posture_context,Safety Context,unsafe posture context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+421,safety_context_feature_037,feature_421_safe_posture_context,Safety Context,safe posture context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+422,safety_context_feature_038,feature_422_abnormal_scene_context,Safety Context,abnormal scene context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+423,safety_context_feature_039,feature_423_normal_scene_context,Safety Context,normal scene context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+424,safety_context_feature_040,feature_424_high_confidence_safe_cue,Safety Context,high confidence safe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+425,safety_context_feature_041,feature_425_high_confidence_unsafe_cue,Safety Context,high confidence unsafe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+426,safety_context_feature_042,feature_426_ambiguous_safety_cue,Safety Context,ambiguous safety cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+427,safety_context_feature_043,feature_427_child_safety_risk_cue,Safety Context,child-safety risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+428,safety_context_feature_044,feature_428_child_safe_activity_cue,Safety Context,child-safe activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+429,safety_context_feature_045,feature_429_dangerous_activity_proxy,Safety Context,dangerous activity proxy,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+430,safety_context_feature_046,feature_430_harmless_activity_proxy,Safety Context,harmless activity proxy,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+431,safety_context_feature_047,feature_431_safety_decision_support,Safety Context,safety decision support,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+432,safety_context_feature_048,feature_432_unsafe_decision_support,Safety Context,unsafe decision support,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+433,safety_context_feature_049,feature_433_final_visual_risk_pattern,Safety Context,final visual risk pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+434,safety_context_feature_050,feature_434_final_safety_confidence,Safety Context,final safety confidence,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+435,safety_context_feature_051,feature_435_risk_intensity_cue,Safety Context,risk intensity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+436,safety_context_feature_052,feature_436_safety_intensity_cue,Safety Context,safety intensity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+437,safety_context_feature_053,feature_437_danger_context_cue,Safety Context,danger context cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+438,safety_context_feature_054,feature_438_non_danger_context_cue,Safety Context,non-danger context cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+439,safety_context_feature_055,feature_439_violent_action_proxy,Safety Context,violent-action proxy,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+440,safety_context_feature_056,feature_440_non_violent_action_proxy,Safety Context,non-violent-action proxy,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+441,safety_context_feature_057,feature_441_physical_risk_cue,Safety Context,physical-risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+442,safety_context_feature_058,feature_442_non_physical_risk_cue,Safety Context,non-physical-risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+443,safety_context_feature_059,feature_443_crowd_safety_cue,Safety Context,crowd safety cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+444,safety_context_feature_060,feature_444_crowd_danger_cue,Safety Context,crowd danger cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+445,safety_context_feature_061,feature_445_close_contact_safe_cue,Safety Context,close-contact safe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+446,safety_context_feature_062,feature_446_close_contact_unsafe_cue,Safety Context,close-contact unsafe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+447,safety_context_feature_063,feature_447_body_risk_pattern,Safety Context,body-risk pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+448,safety_context_feature_064,feature_448_body_safe_pattern,Safety Context,body-safe pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+449,safety_context_feature_065,feature_449_scene_risk_pattern,Safety Context,scene-risk pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+450,safety_context_feature_066,feature_450_scene_safe_pattern,Safety Context,scene-safe pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+451,safety_context_feature_067,feature_451_motion_risk_pattern,Safety Context,motion-risk pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+452,safety_context_feature_068,feature_452_motion_safe_pattern,Safety Context,motion-safe pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+453,safety_context_feature_069,feature_453_object_danger_proxy,Safety Context,object-danger proxy,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+454,safety_context_feature_070,feature_454_object_safe_proxy,Safety Context,object-safe proxy,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+455,safety_context_feature_071,feature_455_gesture_danger_cue,Safety Context,gesture-danger cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+456,safety_context_feature_072,feature_456_gesture_safe_cue,Safety Context,gesture-safe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+457,safety_context_feature_073,feature_457_posture_danger_cue,Safety Context,posture-danger cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+458,safety_context_feature_074,feature_458_posture_safe_cue,Safety Context,posture-safe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+459,safety_context_feature_075,feature_459_interaction_danger_cue,Safety Context,interaction-danger cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+460,safety_context_feature_076,feature_460_interaction_safe_cue,Safety Context,interaction-safe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+461,safety_context_feature_077,feature_461_chaotic_visual_cue,Safety Context,chaotic visual cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+462,safety_context_feature_078,feature_462_calm_visual_cue,Safety Context,calm visual cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+463,safety_context_feature_079,feature_463_unstable_activity_cue,Safety Context,unstable activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+464,safety_context_feature_080,feature_464_stable_activity_cue,Safety Context,stable activity cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+465,safety_context_feature_081,feature_465_unsafe_probability_cue,Safety Context,unsafe probability cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+466,safety_context_feature_082,feature_466_safe_probability_cue,Safety Context,safe probability cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+467,safety_context_feature_083,feature_467_risk_confidence_cue,Safety Context,risk confidence cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+468,safety_context_feature_084,feature_468_safe_confidence_cue,Safety Context,safe confidence cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+469,safety_context_feature_085,feature_469_high_motion_risk_cue,Safety Context,high motion risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+470,safety_context_feature_086,feature_470_low_motion_safety_cue,Safety Context,low motion safety cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+471,safety_context_feature_087,feature_471_group_risk_context,Safety Context,group risk context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+472,safety_context_feature_088,feature_472_group_safety_context,Safety Context,group safety context,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+473,safety_context_feature_089,feature_473_single_person_risk_cue,Safety Context,single-person risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+474,safety_context_feature_090,feature_474_single_person_safety_cue,Safety Context,single-person safety cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+475,safety_context_feature_091,feature_475_environment_risk_cue,Safety Context,environment risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+476,safety_context_feature_092,feature_476_environment_safety_cue,Safety Context,environment safety cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+477,safety_context_feature_093,feature_477_contextual_danger_cue,Safety Context,contextual danger cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+478,safety_context_feature_094,feature_478_contextual_safety_cue,Safety Context,contextual safety cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+479,safety_context_feature_095,feature_479_unsafe_event_proxy,Safety Context,unsafe event proxy,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+480,safety_context_feature_096,feature_480_safe_event_proxy,Safety Context,safe event proxy,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+481,safety_context_feature_097,feature_481_activity_warning_cue,Safety Context,activity warning cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+482,safety_context_feature_098,feature_482_activity_normal_cue,Safety Context,activity normal cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+483,safety_context_feature_099,feature_483_visual_warning_pattern,Safety Context,visual warning pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+484,safety_context_feature_100,feature_484_visual_normal_pattern,Safety Context,visual normal pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+485,safety_context_feature_101,feature_485_conflict_probability_cue,Safety Context,conflict probability cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+486,safety_context_feature_102,feature_486_normal_probability_cue,Safety Context,normal probability cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+487,safety_context_feature_103,feature_487_risk_fusion_cue,Safety Context,risk fusion cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+488,safety_context_feature_104,feature_488_safety_fusion_cue,Safety Context,safety fusion cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+489,safety_context_feature_105,feature_489_body_scene_risk_cue,Safety Context,body-scene risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+490,safety_context_feature_106,feature_490_body_scene_safety_cue,Safety Context,body-scene safety cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+491,safety_context_feature_107,feature_491_object_scene_risk_cue,Safety Context,object-scene risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+492,safety_context_feature_108,feature_492_object_scene_safety_cue,Safety Context,object-scene safety cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+493,safety_context_feature_109,feature_493_motion_scene_risk_cue,Safety Context,motion-scene risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+494,safety_context_feature_110,feature_494_motion_scene_safety_cue,Safety Context,motion-scene safety cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+495,safety_context_feature_111,feature_495_pose_scene_risk_cue,Safety Context,pose-scene risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+496,safety_context_feature_112,feature_496_pose_scene_safety_cue,Safety Context,pose-scene safety cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+497,safety_context_feature_113,feature_497_human_context_risk_cue,Safety Context,human-context risk cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+498,safety_context_feature_114,feature_498_human_context_safety_cue,Safety Context,human-context safety cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+499,safety_context_feature_115,feature_499_combined_unsafe_cue,Safety Context,combined unsafe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+500,safety_context_feature_116,feature_500_combined_safe_cue,Safety Context,combined safe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+501,safety_context_feature_117,feature_501_decision_risk_pattern,Safety Context,decision risk pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+502,safety_context_feature_118,feature_502_decision_safety_pattern,Safety Context,decision safety pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+503,safety_context_feature_119,feature_503_final_unsafe_cue,Safety Context,final unsafe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+504,safety_context_feature_120,feature_504_final_safe_cue,Safety Context,final safe cue,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+505,safety_context_feature_121,feature_505_classification_risk_support,Safety Context,classification risk support,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+506,safety_context_feature_122,feature_506_classification_safety_support,Safety Context,classification safety support,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+507,safety_context_feature_123,feature_507_overall_unsafe_pattern,Safety Context,overall unsafe pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+508,safety_context_feature_124,feature_508_overall_safe_pattern,Safety Context,overall safe pattern,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+509,safety_context_feature_125,feature_509_final_risk_confidence,Safety Context,final risk confidence,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+510,safety_context_feature_126,feature_510_final_safe_confidence,Safety Context,final safe confidence,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+511,safety_context_feature_127,feature_511_nan,Safety Context,,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.
+512,safety_context_feature_128,feature_512_nan,Safety Context,,Readable presentation name for a learned CNN embedding feature. It is not a manually coded detector.

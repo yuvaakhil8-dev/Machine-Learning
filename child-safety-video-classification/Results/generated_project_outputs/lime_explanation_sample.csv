@@ -1,0 +1,21 @@
+feature_rule,lime_weight
+safety_context_feature_104 > 1.18,0.023966548451423788
+safety_context_feature_119 > 0.62,-0.023752501199816454
+scene_activity_feature_096 <= 0.20,0.022826975462612455
+edge_texture_feature_049 > 1.13,-0.022630697867505444
+object_body_feature_012 > 0.71,0.022331997561678366
+safety_context_feature_123 > 0.75,-0.022034718411812634
+object_body_feature_070 > 1.20,-0.021347676396463473
+edge_texture_feature_055 > 0.89,-0.020522000461986503
+edge_texture_feature_090 > 1.43,-0.01919037103937713
+edge_texture_feature_092 > 0.92,-0.017334759736863988
+edge_texture_feature_072 > 1.10,-0.017260847210982568
+edge_texture_feature_062 > 0.74,-0.017131311656678812
+object_body_feature_036 <= 0.88,-0.016370640319173246
+scene_activity_feature_081 <= 0.40,0.016272488322519124
+edge_texture_feature_038 <= 0.39,0.016223121047734098
+edge_texture_feature_046 > 1.16,-0.015117711215535307
+object_body_feature_062 > 1.14,0.014417786515762731
+object_body_feature_067 > 1.80,0.014075788467311492
+edge_texture_feature_007 <= 0.30,-0.013758613412142077
+edge_texture_feature_075 <= 0.29,0.012465845242322748

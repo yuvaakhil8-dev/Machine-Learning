@@ -1,0 +1,7 @@
+{
+  "inter_class_distance": 14.3359,
+  "mean_intra_class_spread": 20.2849,
+  "separability_verdict": "weak",
+  "best_knn_k": 1,
+  "best_knn_accuracy": 0.7933
+}

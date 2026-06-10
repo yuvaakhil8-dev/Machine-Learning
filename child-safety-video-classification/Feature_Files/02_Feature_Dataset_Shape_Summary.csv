@@ -1,0 +1,6 @@
+item,value
+total_rows_videos,497
+total_columns,519
+numeric_feature_columns,515
+safe_videos_label_0,250
+unsafe_videos_label_1,247

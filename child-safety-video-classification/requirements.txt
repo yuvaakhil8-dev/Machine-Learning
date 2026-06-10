@@ -1,0 +1,17 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+xgboost
+lightgbm
+matplotlib
+joblib
+streamlit
+seaborn
+imbalanced-learn
+ultralytics
+lime
+shap
+Pillow

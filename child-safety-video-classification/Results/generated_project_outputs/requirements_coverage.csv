@@ -1,0 +1,33 @@
+requirement,status,evidence_path
+Existing labeled Safe/Unsafe dataset,Included,"Safe (3), Unsafe, data/metadata/dataset_metadata.csv"
+Video validation and corruption checks,Included,"src/scripts/audit_dataset_videos.py, outputs/audit/dataset_audit"
+"Frame extraction, resizing, sampling, normalization",Included,src/feature_engineering/video_features.py
+Duplicate frame reduction support,Included,src/feature_engineering/video_features.py
+Video augmentation methods,Included,src/preprocessing/augmentation.py
+CNN transfer feature extraction,Included,"src/models/transfer_backbones.py, src/scripts/multi_model_pipeline.py"
+ResNet18 / MobileNetV2 / MobileNetV3 Small support,Included,src/models/transfer_backbones.py
+Motion feature extraction,Included,src/feature_engineering/video_features.py
+YOLOv8 object feature hooks,Included,"src/feature_engineering/yolo_object_features.py, data/weights/yolov8n.pt"
+Emotion proxy features,Included,src/feature_engineering/emotion_features.py
+Pose/activity proxy features,Included,src/feature_engineering/pose_activity_features.py
+Feature fusion,Included,src/feature_engineering/video_fusion.py
+9 ML classifiers,Included,"src/scripts/train.py, models_artifacts/artifacts_phase1/metrics_summary.csv"
+Decision Tree baseline,Included,phase2_visual_decision_tree outputs
+KNN sweep,Included,models_artifacts/artifacts_phase1/knn_results.csv
+Stacking ensemble,Included,phase10_visual_stacking_classifier outputs
+Soft and weighted voting,Included,outputs/generated_project_outputs/soft_weighted_voting_results.csv
+Cross-validation,Included,models_artifacts/artifacts_phase1/cross_validation_results.csv
+GridSearchCV and RandomizedSearchCV optimization,Included,"src/models/model_optimization.py, models_artifacts/optimization/hyperparameter_optimization_results.csv"
+Advanced metrics,Included,"src/evaluation/advanced_metrics.py, metrics_summary.csv"
+Confusion matrices,Included,models_artifacts/artifacts_phase1/*confusion_matrix.png
+ROC and PR curves,Included,"outputs/generated_project_outputs/roc_curves_all_models.png, precision_recall_curves_all_models.png"
+PCA and correlation visualizations,Included,"outputs/generated_project_outputs/pca_*.png, correlation_heatmap_top40.png"
+Decision tree visualization,Included,outputs/generated_project_outputs/decision_tree_top_levels.png
+Feature importance,Included,outputs/generated_project_outputs/feature_importance_ranking.csv
+Permutation importance fallback,Included,outputs/generated_project_outputs/permutation_importance.csv
+LIME explanation,Included,outputs/generated_project_outputs/lime_explanation_sample.html
+SHAP explanation,Included,outputs/generated_project_outputs/shap_kernel_feature_importance.csv
+Streamlit app,Included,app/streamlit_app.py
+Upload video and predict,Included,app/streamlit_app.py Demo tab
+Child safety risk score,Included,app/streamlit_app.py Demo tab
+Saved reports and charts,Included,"outputs/reports, outputs/generated_project_outputs"

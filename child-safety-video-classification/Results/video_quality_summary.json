@@ -1,0 +1,24 @@
+{
+  "total_videos": 497,
+  "class_counts": {
+    "safe": 250,
+    "unsafe": 247
+  },
+  "status_counts": {
+    "worthy": 490,
+    "review": 7
+  },
+  "avg_duration_by_class": {
+    "safe": 15.9,
+    "unsafe": 7.17
+  },
+  "median_duration_by_class": {
+    "safe": 11.84,
+    "unsafe": 5.0
+  },
+  "min_duration_seconds": 1.97,
+  "max_duration_seconds": 120.12,
+  "low_resolution_count": 6,
+  "too_short_count": 1,
+  "cannot_open_count": 0
+}

@@ -1,0 +1,5 @@
+search_name,best_cv_f1,best_params
+randomized_random_forest,0.8259,"{'model__n_estimators': 300, 'model__min_samples_leaf': 1, 'model__max_depth': 8}"
+grid_svm,0.8133,"{'model__C': 0.5, 'model__class_weight': 'balanced'}"
+randomized_xgboost,0.8125,"{'model__subsample': 0.8, 'model__n_estimators': 120, 'model__max_depth': 5, 'model__learning_rate': 0.03}"
+grid_logistic_regression,0.7514,"{'model__C': 0.1, 'model__class_weight': None}"

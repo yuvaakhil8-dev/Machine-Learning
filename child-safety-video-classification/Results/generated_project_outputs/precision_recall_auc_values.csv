@@ -1,0 +1,11 @@
+phase,pr_auc_plot
+phase4_visual_svm,0.9199
+phase10_visual_stacking_classifier,0.9041
+phase5_visual_knn,0.8675
+phase9_visual_mlp_classifier,0.8531
+phase8_visual_xgboost,0.8572
+phase1_visual_logistic,0.8203
+phase3_visual_random_forest,0.8741
+phase6_visual_naive_bayes,0.8392
+phase7_visual_adaboost,0.7912
+phase2_visual_decision_tree,0.8205

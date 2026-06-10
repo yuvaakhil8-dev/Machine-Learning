@@ -1,0 +1,32 @@
+{
+  "total_videos": 497,
+  "safe_videos": 250,
+  "unsafe_videos": 247,
+  "feature_count": 515,
+  "models_trained": [
+    "phase4_visual_svm",
+    "phase10_visual_stacking_classifier",
+    "phase5_visual_knn",
+    "phase9_visual_mlp_classifier",
+    "phase8_visual_xgboost",
+    "phase1_visual_logistic",
+    "phase3_visual_random_forest",
+    "phase6_visual_naive_bayes",
+    "phase7_visual_adaboost",
+    "phase2_visual_decision_tree"
+  ],
+  "best_test_model": "phase4_visual_svm",
+  "has_cross_validation": true,
+  "cross_validated_models": [
+    "phase4_visual_svm",
+    "phase8_visual_xgboost",
+    "phase10_visual_stacking_classifier",
+    "phase3_visual_random_forest",
+    "phase5_visual_knn",
+    "phase7_visual_adaboost",
+    "phase6_visual_naive_bayes",
+    "phase1_visual_logistic",
+    "phase9_visual_mlp_classifier",
+    "phase2_visual_decision_tree"
+  ]
+}
