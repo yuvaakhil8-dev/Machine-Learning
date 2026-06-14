@@ -1,5 +1,7 @@
 # Safe/Unsafe Video Classification using Machine Learning
 
+![Streamlit Dashboard](images/dashboard.png)
+
 End-to-end machine learning and computer vision project for classifying videos into **safe** and **unsafe** categories. The system extracts frame-level and video-level features, trains multiple classifiers, compares model performance, generates explainability outputs, and provides a Streamlit dashboard for demonstration.
 
 ## Key Features
